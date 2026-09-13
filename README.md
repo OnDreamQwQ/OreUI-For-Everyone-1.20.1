@@ -2,8 +2,12 @@
 
 本资源包将AE2的UI风格移植到了其他模组上
 
+https://modrinth.com/resourcepack/oreuife
+
+https://www.curseforge.com/minecraft/texture-packs/oreui-for-everyone
+
 https://www.curseforge.com/minecraft/texture-packs/oreui-for-everyone/
 
-欢迎您制作其他模组的兼容，您可以把你的名字及贡献写到 `contributor.csv` 中
+欢迎您制作其他模组的兼容，您可以把你的名字及贡献写到 `contributor.txt` 中
 
 关于适用于Windows10/11的OreUI For Windows ，请见https://github.com/ReConstruction-127/OreUI-For-Windows
