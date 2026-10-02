@@ -186,3 +186,5 @@ Re_Construction, titanium
 OnDreamQwQ, draconicevolution
 
 OnDreamQwQ, forbidden_arcanus
+
+OnDreamQwQ, trashslot
